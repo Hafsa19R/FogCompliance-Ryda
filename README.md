@@ -11,5 +11,4 @@ The goal is to identify infrastructure vulnerabilities and inform **targeted com
 Assess whether restaurant density correlates with water main break frequency.
 Identify sanitary system stress in high-density food service zones.
 Highlight limitations in Calgary’s surcharge-based wastewater compliance model.
-Advocate for stricter enforcement and proactive measures.
-## Folder structure 
+Advocate for stricter enforcement and proactive measures. 
